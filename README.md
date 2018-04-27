@@ -1,0 +1,2 @@
+# sora-aoi
+xfce wm
