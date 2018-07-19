@@ -12,4 +12,7 @@ Pastel-light
 One-On-One
 ![screenshot_2018-06-17_11-57-27](https://user-images.githubusercontent.com/38096925/41504900-4b512732-7226-11e8-9ae1-574d309e4a9e.png)
 
+Traffic-Dark
+![screenshot_2018-06-24_18-28-44](https://user-images.githubusercontent.com/38096925/42925702-33e541fe-8b59-11e8-9091-057e4cf1a55d.png)
+
 
