@@ -16,4 +16,4 @@ Traffic-Dark
 ![screenshot_2018-06-24_18-28-44](https://user-images.githubusercontent.com/38096925/42925702-33e541fe-8b59-11e8-9091-057e4cf1a55d.png)
 
 Mini-Com
-![screenshot_2018-07-27_16-25-02](https://user-images.githubusercontent.com/38096925/43313318-eb7d4986-91b9-11e8-84b2-7cc09a1334d7.png)
+![screenshot_2018-07-27_16-25-02](https://user-images.githubusercontent.com/38096925/43313450-4bb426b2-91ba-11e8-9ff0-95aae74f2e17.png)
