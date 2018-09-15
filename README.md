@@ -20,3 +20,7 @@ Mini-Com
 
 Dark-com
 ![screenshot_2018-08-03_18-29-45](https://user-images.githubusercontent.com/38096925/43642018-108df4dc-9750-11e8-9b49-e77bd2440866.png)
+
+Dark-com-v2
+![screenshot_2018-09-07_15-41-14](https://user-images.githubusercontent.com/38096925/45582823-ce696980-b8e0-11e8-852a-db0260855f7f.png)
+
