@@ -1,4 +1,6 @@
-#Installation
+# Ma xfce window manager themes
+
+## Installation
 
 put into your ~/.themes folder
 
